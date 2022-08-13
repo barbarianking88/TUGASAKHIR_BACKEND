@@ -1,0 +1,17 @@
+body {
+  max-height: 2000px;
+}
+
+.jumbotron {
+  padding-top: 4rem;
+  background-color: rgb(202, 217, 223);
+}
+
+#card {
+  background-color: rgb(100, 138, 138);
+}
+
+.cont {
+  padding-top: 4rem;
+  background-color: rgb(21, 23, 24);
+}
